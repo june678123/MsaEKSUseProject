@@ -1,5 +1,9 @@
 # 프로젝트 소개
 
+[![Video](https://img.shields.io/badge/▶_기능_시연_영상-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/t9DFECeHMd8?si=OPeJg1i5BChrNKEs)
+
+---
+
 ## 어떤 프로젝트인가요?
 
 실제 서비스 운영 환경과 유사한 구조로 만든 **쇼핑몰 백엔드 시스템**입니다.
