@@ -2,6 +2,18 @@
 
 [![Video](https://img.shields.io/badge/▶_기능_시연_영상-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/t9DFECeHMd8?si=OPeJg1i5BChrNKEs)
 
+실제 배포 후 HPA와 다른 기능들의 시연 영상을 위 링크에서 확인하실 수 있습니다.
+
+- 유저/구매 플로우 (회원가입 → 상품 등록 → 구매 → 주문 조회)
+- 어드민 기능 및 JWT 보안 (권한 분리, RTR 도용 감지)
+- TLS 인증서 및 Istio mTLS 확인
+- Kafka 이벤트 정합성 검증
+- Pod 장애 → 자동 복구
+- AZ 장애 시뮬레이션 (노드 drain → 무중단 확인)
+- HPA 스케일아웃 (부하 → Pod 자동 확장)
+- Istio 카나리 배포 (트래픽 비율 조절, 롤백)
+- gRPC 성능 + BFF 병렬 호출 + 동적 검색
+
 ---
 
 ## 사용 기술 스택
