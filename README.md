@@ -4,6 +4,33 @@
 
 ---
 
+## 사용 기술 스택
+
+| 영역 | 기술 |
+|---|---|
+| 언어 | Kotlin, Go |
+| 프레임워크 | Spring Boot 3, Spring WebFlux, Spring Security, Spring Data JPA/R2DBC/MongoDB Reactive |
+| 통신 | gRPC (Protobuf), REST, Kafka |
+| DB | MySQL (RDS), MongoDB (DocumentDB), Redis (ElastiCache) |
+| 인프라 | AWS EKS (Kubernetes), Terraform, Istio (Service Mesh), Docker |
+| CI/CD 기반 | ECR, Helm, cert-manager (Let's Encrypt) |
+| 모니터링 | Fluent Bit, Kafka, Logstash, Elasticsearch, Kibana |
+
+---
+
+## 주요 성과
+
+### WebFlux + Non-blocking 아키텍처
+
+BFF 역할을 하는 게이트웨이에 Spring WebFlux를 적용하여, 내부 서비스 병렬 호출 등에서 Non-blocking 방식을 활용하기도 했습니다.
+
+### Terraform 인프라 자동화
+
+Terraform + EKS로 인프라 전체를 코드화하여, `terraform apply` 한 번으로 자동 생성됩니다.
+관리자 계정 초기 데이터 자동 주입도 구현했으나, 아직 검증 전입니다. 나머지는 전부 코드로 관리됩니다.
+
+---
+
 ## 어떤 프로젝트인가요?
 
 실제 서비스 운영 환경과 유사한 구조로 만든 **쇼핑몰 백엔드 시스템**입니다.
