@@ -1,5 +1,14 @@
 # 프로젝트 소개
 
+[![Highlight](https://img.shields.io/badge/▶_하이라이트_영상-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/wotoO3KQBxQ?si=Y5XQOrLAwjbeYobA)
+
+하이라이트 영상을 위 링크에서 확인하실 수 있습니다.
+
+- Kafka 이벤트 데이터 정합성 확인
+- AZ 장애 대응 (노드 drain → 무중단 확인)
+- HPA 오토스케일링 (부하 → Pod 자동 확장)
+- Kibana 로그 모니터링
+
 [![Video](https://img.shields.io/badge/▶_기능_시연_영상-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/t9DFECeHMd8?si=OPeJg1i5BChrNKEs)
 
 실제 배포 후 HPA와 다른 기능들의 시연 영상을 위 링크에서 확인하실 수 있습니다.
