@@ -25,6 +25,13 @@
 
 ---
 
+
+
+<img width="1364" height="1150" alt="예시 코드 캡처" src="https://github.com/user-attachments/assets/22607b4f-dc7a-4eda-afa5-725105752e9c" />
+
+예시 코드 캡처 파일
+
+
 ## 사용 기술 스택
 
 | 영역 | 기술 |
