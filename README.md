@@ -1,7 +1,7 @@
 # MSA 커머스 플랫폼 — 인프라 + 백엔드
 
 Kotlin/Go 기반 마이크로서비스 아키텍처로 설계한 커머스 백엔드 시스템입니다.
-서비스 개발부터 AWS 인프라 설계, Kubernetes 운영, 옵저버빌리티까지 전체를 직접 구축했습니다.
+서비스 개발부터 AWS 인프라 설계, Kubernetes 운영, 로그 파이프라인까지 구축되게 하였습니다.
 
 [![Highlight](https://img.shields.io/badge/▶_하이라이트_영상-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/wotoO3KQBxQ?si=Y5XQOrLAwjbeYobA)
 [![Video](https://img.shields.io/badge/▶_기능_시연_영상-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/t9DFECeHMd8?si=OPeJg1i5BChrNKEs)
